@@ -1,0 +1,18 @@
+{
+  "name": "tree-tabs",
+  "version": "0.1.0",
+  "homepage": "https://github.com/treeframework/object.tabs",
+  "authors": [
+    "Harry Roberts <harry@csswizardry.com>",
+    "Ilia Kolev <contact@iliakolev.com>"
+  ],
+  "description": "A simple tabs object.",
+  "main": "_tabs.scss",
+  "keywords": [
+    "css"
+  ],
+  "license": "Apache",
+  "dependencies": {
+    "tree-defaults": "latest"
+  }
+}
