@@ -1,11 +1,19 @@
-# The tabs object
+# Tabs
 
 The `tabs` object is a simple abstraction for force a series of elements
 (usually a list) into an equal-width, tab-like format.
 
 Install using Bower:
 
-    $ bower install --save tree-tabs
+```sh
+$ bower install tree-tabs --save
+```
+
+Install using npm:
+
+```sh
+$ npm install tree-tabs --save
+```
 
 ## Credits
 
