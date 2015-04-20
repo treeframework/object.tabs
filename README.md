@@ -59,7 +59,7 @@ Basic usage of the `tabs` object uses the required classes:
 
 ```html
 <ul class="o-tabs">
-    <li class="o-tabs__item>
+    <li class="o-tabs__item">
         <a class="o-tabs__link" href="#">Foo</a>
     </li>
     <li class="o-tabs__item">
