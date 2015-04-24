@@ -9,13 +9,13 @@ The `tabs` object depends on one other module:
 
 * [settings.defaults](https://github.com/treeframework/settings.defaults)
 
-If you install the `tabs` object using Bower, you will get these dependencies at
-the same time. If not using Bower, please be sure to install and `@import` these
-dependencies in the relevant way.
+If you install the `tabs` object using Bower or npm, you will get these 
+dependencies at the same time. If not using Bower or npm, please be sure to 
+install and `@import` these dependencies in the relevant way.
 
 ## Installation
 
-You can install `tabs` object via Bower, npm, Git Submodule, or copy and paste.
+You can install `tabs` object via Bower, npm, or copy and paste.
 
 ### Install using Bower:
 
@@ -33,18 +33,6 @@ Once installed, `@import` into your project in its Object layer:
 
 ```sh
 $ npm install tree-tabs --save
-```
-
-### Install as a Git Submodule:
-
-```sh
-$ git submodule add git@github.com:treeframework/object.tabs.git
-```
-
-Once installed, `@import` into your project in its Object layer:
-
-```scss
-@import "object.tabs/object.tabs";
 ```
 
 ### Install via file download
